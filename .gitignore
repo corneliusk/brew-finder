@@ -42,3 +42,12 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+#firebase
+
+.firebaserc
+firebase.json
+#docker
+.dockerignore
+Dockerfile
+nginx.conf
